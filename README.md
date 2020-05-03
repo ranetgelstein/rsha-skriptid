@@ -1,1 +1,0 @@
-# rsha-skriptid
