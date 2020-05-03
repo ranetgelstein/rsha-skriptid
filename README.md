@@ -3,9 +3,9 @@
 ### Skriptid on mõeldud apache2 installeerimiseks Wordpressiga
 ### Skripte saab kõivitada käsuga failname.sh
 ## Skriptide käivitamise järjekord
+### andmebaasid.sh	
 ### apache-paigaldus.sh
-### php_paigaldus.sh
 ### mysql-paigaldus.sh
-### andmebaasid.sh
-### pma_paigaldus.sh
-### wordpress_paigaldus.sh
+### php-paigaldus.sh	
+### pma-paigaldamine.sh
+### wp-paigaldamine.sh
