@@ -2,7 +2,7 @@
 ## Skriptidest
 ### Skriptid on mõeldud apache2 installeerimiseks Wordpressiga
 ### Skripte saab kõivitada käsuga failname.sh
-##Skriptide käivitamise järjekord
+## Skriptide käivitamise järjekord
 ### apache-paigaldus.sh
 ### php_paigaldus.sh
 ### mysql-paigaldus.sh
